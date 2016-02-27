@@ -5,3 +5,5 @@ Control Robotic Arm by feedback from optical encoders.
 - Cairo University
 - 5 D.O.F ARM control that takes part in ERC - European rover chalenge 2014
 - Algorithm of control: resolved motion control (instantenous + forward kinematics)
+
+https://www.youtube.com/playlist?list=PLqvA2OvheY_HOlmIED9yhkd-EdYHbyVqD 
